@@ -9,6 +9,7 @@ The application provides buttons to turn ON/OFF appliances, set AC temperature, 
 
 ---
 
+
 ## 🚀 Features
 - GUI-based control using Tkinter
 - Light and Fan ON/OFF control
