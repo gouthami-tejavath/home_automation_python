@@ -147,12 +147,10 @@ class SmartHomeGUI:
         self.status_box.insert(tk.END, self.fan.get_status() + "\n")
         self.status_box.insert(tk.END, self.ac.get_status() + "\n")
         self.status_box.insert(tk.END, self.lock.get_status())
-
-
 #Run App 
-
 if __name__ == "__main__":
     root = tk.Tk()
     app = SmartHomeGUI(root)
     root.mainloop()
+
 
