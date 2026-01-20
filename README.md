@@ -23,3 +23,6 @@ The application provides buttons to turn ON/OFF appliances, set AC temperature, 
 - Python
 - Tkinter
 - - Object-Oriented Programming
+---
+## 📸 Output Screenshot
+![Output Screenshot](output.png)
